@@ -179,8 +179,5 @@ with middle_column:
 
 
 
-
-
-
 st.markdown("---")
 
